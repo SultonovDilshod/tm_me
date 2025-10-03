@@ -1,0 +1,52 @@
+2025-09-30 18:57:28,603 - __main__ - INFO - Database initialized successfully
+2025-09-30 18:57:28,800 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-30 18:57:28,801 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-30 18:57:28,802 - apscheduler.scheduler - INFO - Added job "Daily Birthday Check" to job store "default"
+2025-09-30 18:57:28,802 - apscheduler.scheduler - INFO - Added job "Weekly Upcoming Birthdays Check" to job store "default"
+2025-09-30 18:57:28,803 - apscheduler.scheduler - INFO - Scheduler started
+2025-09-30 18:57:28,803 - scheduler.reminder_scheduler - INFO - Birthday reminder scheduler started
+2025-09-30 18:57:28,803 - __main__ - INFO - Scheduler started successfully
+2025-09-30 18:57:28,803 - __main__ - INFO - Starting bot...
+2025-09-30 18:57:28,803 - aiogram.dispatcher - INFO - Start polling
+2025-09-30 18:57:29,418 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-30 18:57:29,680 - __main__ - ERROR - Error starting bot: HTTP Client says - ClientConnectorCertificateError: Cannot connect to host api.telegram.org:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')]
+2025-09-30 18:57:29,685 - tortoise - INFO - Tortoise-ORM shutdown
+2025-09-30 18:59:34,969 - __main__ - INFO - Database initialized successfully
+2025-09-30 18:59:35,172 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-30 18:59:35,173 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-30 18:59:35,173 - apscheduler.scheduler - INFO - Added job "Daily Birthday Check" to job store "default"
+2025-09-30 18:59:35,174 - apscheduler.scheduler - INFO - Added job "Weekly Upcoming Birthdays Check" to job store "default"
+2025-09-30 18:59:35,175 - apscheduler.scheduler - INFO - Scheduler started
+2025-09-30 18:59:35,175 - scheduler.reminder_scheduler - INFO - Birthday reminder scheduler started
+2025-09-30 18:59:35,175 - __main__ - INFO - Scheduler started successfully
+2025-09-30 18:59:35,175 - __main__ - INFO - Starting bot...
+2025-09-30 18:59:35,175 - aiogram.dispatcher - INFO - Start polling
+2025-09-30 18:59:35,409 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-30 18:59:35,673 - __main__ - ERROR - Error starting bot: HTTP Client says - ClientConnectorCertificateError: Cannot connect to host api.telegram.org:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')]
+2025-09-30 18:59:35,674 - tortoise - INFO - Tortoise-ORM shutdown
+2025-09-30 19:02:41,817 - __main__ - INFO - Database initialized successfully
+2025-09-30 19:02:42,008 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-30 19:02:42,009 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-30 19:02:42,010 - apscheduler.scheduler - INFO - Added job "Daily Birthday Check" to job store "default"
+2025-09-30 19:02:42,010 - apscheduler.scheduler - INFO - Added job "Weekly Upcoming Birthdays Check" to job store "default"
+2025-09-30 19:02:42,010 - apscheduler.scheduler - INFO - Scheduler started
+2025-09-30 19:02:42,011 - scheduler.reminder_scheduler - INFO - Birthday reminder scheduler started
+2025-09-30 19:02:42,011 - __main__ - INFO - Scheduler started successfully
+2025-09-30 19:02:42,011 - __main__ - INFO - Starting bot...
+2025-09-30 19:02:42,011 - aiogram.dispatcher - INFO - Start polling
+2025-09-30 19:02:42,249 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-30 19:02:42,513 - __main__ - ERROR - Error starting bot: HTTP Client says - ClientConnectorCertificateError: Cannot connect to host api.telegram.org:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')]
+2025-09-30 19:02:42,516 - tortoise - INFO - Tortoise-ORM shutdown
+2025-09-30 19:05:12,636 - __main__ - INFO - Database initialized successfully
+2025-09-30 19:05:12,832 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-30 19:05:12,833 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-30 19:05:12,834 - apscheduler.scheduler - INFO - Added job "Daily Birthday Check" to job store "default"
+2025-09-30 19:05:12,835 - apscheduler.scheduler - INFO - Added job "Weekly Upcoming Birthdays Check" to job store "default"
+2025-09-30 19:05:12,835 - apscheduler.scheduler - INFO - Scheduler started
+2025-09-30 19:05:12,836 - scheduler.reminder_scheduler - INFO - Birthday reminder scheduler started
+2025-09-30 19:05:12,836 - __main__ - INFO - Scheduler started successfully
+2025-09-30 19:05:12,837 - __main__ - INFO - Starting bot...
+2025-09-30 19:05:12,837 - aiogram.dispatcher - INFO - Start polling
+2025-09-30 19:05:13,088 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-30 19:05:13,340 - __main__ - ERROR - Error starting bot: HTTP Client says - ClientConnectorCertificateError: Cannot connect to host api.telegram.org:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')]
+2025-09-30 19:05:13,342 - tortoise - INFO - Tortoise-ORM shutdown
